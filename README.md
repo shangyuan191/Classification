@@ -1,6 +1,8 @@
 # Classification
+
 > python my_classifier.py
 
+>github網址:https://github.com/shangyuan191/Classification
 ## Data Preprocessing
 * #### Missing Value Imputation
 在讀檔時先將每筆資料的缺失欄位填上"Unknown"，然後在資料前處理的時候對不同的欄位進行不同的缺失值處理
@@ -37,7 +39,7 @@ Confusion Matrix:
  [ 13   5   0   8]
 
  [ 23   1   2   7]
- 
+
  [ 15   0   0  11]]
 
  最終預測結果在output.csv
